@@ -18,7 +18,7 @@
 
 | | |
 |---|---|
-| ![Flanear's Stats](https://github-readme-stats.vercel.app/api?username=Flanear&show_icons=true&theme=dark) | ![Flanear's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flanear&theme=dark) |
+| ![](https://github-readme-stats.vercel.app/api?username=Flanear&show_icons=true&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Flanear&theme=dark) |
 
 ### 🔤 Lenguajes más usados
 
